@@ -1,0 +1,21 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.pink {
+    background-color: pink;
+}
+#one-id{
+    background-color: #fff;
+    color: blue;
+    font-size: 36px;
+}
+
+#four-id{
+    background-color: green;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.cooler {
+    font-size: 24px;
+}
